@@ -4,7 +4,7 @@ Packages used - sklearn and pandas
 
 
 Acuracy 
-Naive Bayes = 0.98348887293610909
-LogisticRegression = 0.98420674802584351
-svm = 0.86575735821966981
-Random forest = 0.9712849964106246
+Naive Bayes = 0.98
+LogisticRegression = 0.98
+svm = 0.86
+Random forest = 0.97
